@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GroceryList</string>
+    <string name="action_settings">Settings</string>
+    <string name="grocery_item">Enter Grocery Item</string>
+    <string name="grocery_item_hint">e.g Banana</string>
+    <string name="grocery_quantity">e.g 1 kilo</string>
+    <string name="save_button">Save</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="groceryName">Grocery Name</string>
+    <string name="groceryItemQuantity">Quantity</string>
+    <string name="dateAdded">Date</string>
+    // FOR THE DETAILS VIEW
+    <string name="details_test">Hello Position</string>
+    <string name="qty">Qty:</string>
+    <string name="detDateAdded">Date:</string>
+
+    // CONFIRMATION TEXT
+    <string name="sure">Are You Sure? </string>
+    <string name="noButton">No</string>
+    <string name="yesButton">Yes</string>
+</resources>
